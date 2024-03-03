@@ -5,9 +5,13 @@ Welcome to my repository of dashboards, where you can explore interesting data a
 ## Dashboard Overview
 
 #### Shop_Product_Test_Daschboard
-![[Dashboard 1.png]]
+
+![Screenshot of Dashboard1](Dashboard1.png)
+
 #### Category analysis
-![[Анализ по категориям.png]]
+
+![Screenshot of Category analysis](dashboard2.png)
+
 ## Dashboard Links
 
 [Shop_Product_Test_Daschboard1](https://public.tableau.com/views/Shop_Product_Test_Daschboard1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) |
